@@ -2,5 +2,6 @@ matplotlib
 numpy
 pandas
 sklearn
+seaborn
 torch
 torchvision
